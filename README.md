@@ -1,15 +1,11 @@
-## 🛠️ Tech‑Stack
+## 🛠️ Tech‑Stack & Badges
 
-**Systeme**
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![AMD](https://img.shields.io/badge/AMD-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-AC1E2D?style=for-the-badge&logo=vulkan&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Hardware**
-![AMD](https://img.shields.io/badge/AMD_GPU-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![Vulkan](https://img.shields.io/badge/Vulkan-AC1E2D?style=for-the-badge&logo=vulkan&logoColor=white)
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 # 🌐 bagueDev – Creator‑Engineering ohne Bullshit

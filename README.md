@@ -5,6 +5,7 @@
 ![Vulkan](https://img.shields.io/badge/Vulkan-AC1E2D?style=for-the-badge&logo=vulkan&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![LLAMA.cpp](https://img.shields.io/badge/LLAMA.cpp-FF6F00?style=for-the-badge&logo=llama&logoColor=white)
 
 
 

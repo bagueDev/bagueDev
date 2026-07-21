@@ -81,3 +81,11 @@ Wir drehen den Trend um: **leichte Tools, klare Workflows, echte Kontrolle.**
 Tech‑Videos, KI‑Workflows, Benchmarks, Tools, Creator‑Engineering.  
 Kurz, klar, direkt.
 
+## 🎖️ Projekt‑Badges
+
+![LLAMA.cpp](https://img.shields.io/badge/LLAMA.cpp-FF6F00?style=for-the-badge&logo=llama&logoColor=white)
+![Vega56/64](https://img.shields.io/badge/AMD_Vega_56/64-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![macOS Launcher](https://img.shields.io/badge/macOS_Launcher-000000?style=for-the-badge&logo=apple&logoColor=white)
+![DJ‑GADGET‑AI‑SUITE‑PRO](https://img.shields.io/badge/DJ_Gadget_AI_Suite_Pro-8A2BE2?style=for-the-badge&logo=soundcloud&logoColor=white)
+![V.I.N.CENT MCP](https://img.shields.io/badge/V.I.N.CENT_MCP-1E90FF?style=for-the-badge&logo=terminal&logoColor=white)
+![Creator‑Workflows](https://img.shields.io/badge/Creator_Workflows-00A86B?style=for-the-badge&logo=github&logoColor=white)

@@ -6,6 +6,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![LLAMA.cpp](https://img.shields.io/badge/LLAMA.cpp-FF6F00?style=for-the-badge&logo=llama&logoColor=white)
+![HTML](https://img.shields.io/badge/UI-HTML%2FJS-e34c26?logo=html5&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-supported-blueviolet)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 
 
